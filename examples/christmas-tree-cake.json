@@ -1,0 +1,47 @@
+{
+ "name": "Little Debbie Christmas Tree Cake (vanilla, 1 cake / 49 g, room temp)",
+ "source": "Current label for the 5-ct vanilla carton (UPC 024300041563), 8.62 oz: serving 1 cake (49 g), 220 cal, 10 g fat (6 g sat), 90 mg sodium, 32 g carb, 22 g sugars (all added), 1 g protein. Confirmed on Kroger, ShopRite, Cub, and Price Rite, Nov 2026. The brief's ~43 g looks like an older carton weight; current cakes are 49 g. Not the 3 oz / 85 g single-serve. Layer gram splits are estimates (coating 17 g includes ~1 g red drizzle and ~0.8 g green sugar crystals; creme 11 g; yellow cake 21 g).",
+ "ingredients": [
+  {
+   "name": "ld christmas tree white icing",
+   "grams": 17
+  },
+  {
+   "name": "ld christmas tree creme filling",
+   "grams": 11
+  },
+  {
+   "name": "ld christmas tree yellow cake",
+   "grams": 21
+  }
+ ],
+ "layers": [
+  {
+   "name": "White icing, red drizzle, and green sugar sprinkles (first bite)",
+   "ingredients": [
+    {
+     "name": "ld christmas tree white icing",
+     "grams": 17
+    }
+   ]
+  },
+  {
+   "name": "Creme filling",
+   "ingredients": [
+    {
+     "name": "ld christmas tree creme filling",
+     "grams": 11
+    }
+   ]
+  },
+  {
+   "name": "Yellow vanilla cake",
+   "ingredients": [
+    {
+     "name": "ld christmas tree yellow cake",
+     "grams": 21
+    }
+   ]
+  }
+ ]
+}
