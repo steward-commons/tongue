@@ -1,0 +1,380 @@
+{
+ "rice": {
+  "sweet": 2,
+  "aroma": 1
+ },
+ "beef ribeye": {
+  "umami": 6,
+  "fat": 7,
+  "aroma": 5,
+  "salty": 1
+ },
+ "soy sauce": {
+  "salty": 10,
+  "umami": 9,
+  "sweet": 1,
+  "aroma": 5
+ },
+ "sugar": {
+  "sweet": 10
+ },
+ "brown sugar": {
+  "sweet": 9,
+  "aroma": 3,
+  "bitter": 1
+ },
+ "garlic": {
+  "aroma": 9,
+  "bitter": 1,
+  "bite": 3
+ },
+ "sesame oil": {
+  "fat": 10,
+  "aroma": 9,
+  "bitter": 1
+ },
+ "gochujang": {
+  "sweet": 5,
+  "salty": 7,
+  "umami": 6,
+  "sour": 1,
+  "aroma": 6,
+  "shu": 2000
+ },
+ "egg": {
+  "fat": 5,
+  "umami": 3,
+  "salty": 1
+ },
+ "spinach": {
+  "bitter": 3,
+  "aroma": 2
+ },
+ "bean sprouts": {
+  "aroma": 1,
+  "sweet": 1
+ },
+ "carrot": {
+  "sweet": 4,
+  "aroma": 2
+ },
+ "zucchini": {
+  "sweet": 1,
+  "aroma": 1
+ },
+ "shiitake": {
+  "umami": 8,
+  "aroma": 7
+ },
+ "asian pear": {
+  "sweet": 7,
+  "sour": 1,
+  "aroma": 4
+ },
+ "green onion": {
+  "aroma": 6,
+  "bitter": 1,
+  "bite": 2
+ },
+ "fish sauce": {
+  "salty": 10,
+  "umami": 10,
+  "aroma": 8
+ },
+ "chili pepper": {
+  "aroma": 4,
+  "shu": 20000
+ },
+ "dried chiles": {
+  "bitter": 3,
+  "aroma": 8,
+  "sweet": 2,
+  "shu": 1500
+ },
+ "dark chocolate": {
+  "bitter": 7,
+  "sweet": 5,
+  "fat": 6,
+  "aroma": 8
+ },
+ "cinnamon": {
+  "aroma": 9,
+  "sweet": 2,
+  "bitter": 2
+ },
+ "tomato": {
+  "sour": 5,
+  "sweet": 4,
+  "umami": 5,
+  "aroma": 4
+ },
+ "onion": {
+  "sweet": 4,
+  "aroma": 6,
+  "bite": 2
+ },
+ "chicken": {
+  "umami": 5,
+  "fat": 3,
+  "aroma": 3
+ },
+ "chicken stock": {
+  "umami": 6,
+  "salty": 5,
+  "aroma": 4
+ },
+ "lard": {
+  "fat": 10,
+  "aroma": 3
+ },
+ "raisins": {
+  "sweet": 9,
+  "sour": 2,
+  "aroma": 4
+ },
+ "almonds": {
+  "fat": 7,
+  "bitter": 1,
+  "aroma": 4,
+  "sweet": 1
+ },
+ "sesame seeds": {
+  "fat": 7,
+  "aroma": 6,
+  "bitter": 2
+ },
+ "salt": {
+  "salty": 10
+ },
+ "black pepper": {
+  "aroma": 7,
+  "bitter": 2,
+  "bite": 4
+ },
+ "lime juice": {
+  "sour": 10,
+  "aroma": 6,
+  "bitter": 1
+ },
+ "vinegar": {
+  "sour": 10,
+  "aroma": 4
+ },
+ "butter": {
+  "fat": 10,
+  "sweet": 1,
+  "aroma": 5,
+  "salty": 2
+ },
+ "cheddar": {
+  "fat": 8,
+  "salty": 6,
+  "umami": 6,
+  "sour": 2,
+  "aroma": 6
+ },
+ "bread": {
+  "sweet": 2,
+  "salty": 2,
+  "aroma": 4
+ },
+ "lettuce": {
+  "bitter": 1,
+  "aroma": 1
+ },
+ "skittles": {
+  "sweet": 10,
+  "sour": 4,
+  "aroma": 6
+ },
+ "electrolyte drink lemon-lime": {
+  "sweet": 7,
+  "sour": 5,
+  "salty": 2,
+  "aroma": 4
+ },
+ "crushed red pepper": {
+  "aroma": 5,
+  "bitter": 1,
+  "shu": 40000
+ },
+ "instant coffee": {
+  "bitter": 9,
+  "aroma": 7,
+  "sour": 2
+ },
+ "tabasco": {
+  "shu": 3750,
+  "sour": 8,
+  "salty": 4,
+  "aroma": 7
+ },
+ "non-dairy creamer": {
+  "fat": 7,
+  "sweet": 3,
+  "aroma": 2
+ },
+ "whole milk": {
+  "sweet": 2,
+  "fat": 4,
+  "aroma": 2
+ },
+ "flour": {
+  "aroma": 1,
+  "sweet": 1
+ },
+ "buddig ham": {
+  "salty": 9,
+  "umami": 6,
+  "fat": 3,
+  "sweet": 2,
+  "aroma": 5
+ },
+ "white toast": {
+  "sweet": 2,
+  "salty": 2,
+  "aroma": 5
+ },
+ "water": {},
+ "tang powder": {
+  "sweet": 9,
+  "sour": 6,
+  "aroma": 7,
+  "bitter": 0.5
+ },
+ "kool-aid unsweetened mix": {
+  "sour": 7,
+  "aroma": 7,
+  "bitter": 0.5,
+  "ref_conc": 0.5
+ },
+ "dill pickle": {
+  "sour": 7,
+  "salty": 7,
+  "aroma": 6,
+  "bitter": 0.5,
+  "sweet": 0.5
+ },
+ "warheads sour coating (malic acid)": {
+  "sour": 10,
+  "sweet": 2
+ },
+ "warheads hard candy core": {
+  "sweet": 9,
+  "aroma": 5,
+  "sour": 2
+ },
+ "espresso": {
+  "bitter": 9,
+  "sour": 3,
+  "aroma": 9
+ },
+ "caramel sauce": {
+  "sweet": 9,
+  "fat": 3,
+  "aroma": 6,
+  "bitter": 0.5
+ },
+ "vanilla syrup": {
+  "sweet": 9,
+  "aroma": 5
+ },
+ "ice": {},
+ "carbonated water": {
+  "fizz": 8
+ },
+ "phosphoric acid": {
+  "sour": 10,
+  "bitter": 1,
+  "ref_conc": 1.0
+ },
+ "dr pepper flavor": {
+  "aroma": 9,
+  "sweet": 1,
+  "bitter": 0.3,
+  "ref_conc": 0.1
+ },
+ "yeast extract": {
+  "umami": 10,
+  "salty": 6,
+  "aroma": 4
+ },
+ "vegetable oil": {
+  "fat": 10,
+  "aroma": 1
+ },
+ "tomato paste": {
+  "sweet": 5,
+  "sour": 6,
+  "umami": 8,
+  "aroma": 6
+ },
+ "molasses": {
+  "sweet": 8,
+  "bitter": 2,
+  "aroma": 6
+ },
+ "smoke flavor": {
+  "aroma": 10,
+  "bitter": 1,
+  "ref_conc": 0.4
+ },
+ "pineapple juice concentrate": {
+  "sweet": 8,
+  "sour": 4,
+  "aroma": 5
+ },
+ "tyson crispy chicken strips": {
+  "salty": 5.5,
+  "fat": 7,
+  "umami": 6.5,
+  "aroma": 7.5,
+  "sweet": 1,
+  "bitter": 0.3
+ },
+ "sweet baby ray's original": {
+  "sweet": 10,
+  "sour": 5,
+  "salty": 5.5,
+  "umami": 3.5,
+  "aroma": 7.5,
+  "bitter": 0.5
+ },
+ "ld christmas tree white icing": {
+  "sweet": 10,
+  "fat": 5,
+  "aroma": 4.5,
+  "salty": 0.5,
+  "bitter": 0.4
+ },
+ "ld christmas tree creme filling": {
+  "sweet": 10,
+  "fat": 6,
+  "aroma": 5.5,
+  "salty": 0.3
+ },
+ "ld christmas tree yellow cake": {
+  "sweet": 8,
+  "fat": 3,
+  "aroma": 5,
+  "salty": 1.5
+ },
+ "vanilla extract": {
+  "sweet": 2,
+  "aroma": 9,
+  "bitter": 1
+ },
+ "semi-sweet chocolate chips": {
+  "sweet": 7,
+  "bitter": 3.5,
+  "fat": 6.5,
+  "aroma": 8
+ },
+ "chocolate milk": {
+  "sweet": 5,
+  "fat": 3.5,
+  "aroma": 4,
+  "bitter": 1,
+  "note": "estimate 2026-11-18: reduced-fat-to-whole chocolate milk, sweeter than plain whole milk, light cocoa bitterness"
+ }
+}
