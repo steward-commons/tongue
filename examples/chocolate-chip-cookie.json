@@ -1,0 +1,111 @@
+{
+ "name": "Homemade chocolate chip cookie (Toll House-style, 1 cookie / 35 g)",
+ "source": "Official Original NESTLÉ TOLL HOUSE Chocolate Chip Cookies recipe at verybestbaking.com/toll-house/recipes/chocolate-chip-cookies/ (also nestle.com/stories/timeless-discovery-toll-house-chocolate-chip-cookie-recipe): 2 1/4 cups all-purpose flour, 1 tsp baking soda, 1 tsp salt, 1 cup (2 sticks) butter, 3/4 cup granulated sugar, 3/4 cup packed brown sugar, 1 tsp vanilla extract, 2 large eggs, 2 cups (12 oz / 340 g) NESTLÉ TOLL HOUSE Semi-Sweet Chocolate Morsels; optional 1 cup chopped nuts omitted, with 1.5 Tbsp extra flour per the recipe note. Yield is about 5 dozen official rounded-tablespoon drops (~21 g). Batch weights use King Arthur Baking's ingredient weight chart (flour 120 g/cup so 270 g + 12 g extra flour = 282 g; granulated sugar 198 g/cup so 149 g; packed brown sugar 213 g/cup so 160 g; butter 227 g; 2 large eggs 100 g; table salt 6 g; vanilla extract 5 g; morsels 340 g package). Baking soda is in the recipe (~5 g per batch) but omitted from the tasting because it reacts away. Batch total 1,269 g, scaled to one 35 g homemade cookie (a slightly larger drop than the official tablespoon, still in the 30-40 g range). Layer splits of the dough (edge 10.5 g, center 15.1 g, chips 9.4 g) are my estimates: more white sugar on the crisp edge, more brown sugar and egg in the chewy center, all the morsels as the chocolate layer.",
+ "ingredients": [
+  {
+   "name": "flour",
+   "grams": 7.8
+  },
+  {
+   "name": "salt",
+   "grams": 0.2
+  },
+  {
+   "name": "butter",
+   "grams": 6.2
+  },
+  {
+   "name": "sugar",
+   "grams": 4.1
+  },
+  {
+   "name": "brown sugar",
+   "grams": 4.4
+  },
+  {
+   "name": "vanilla extract",
+   "grams": 0.1
+  },
+  {
+   "name": "egg",
+   "grams": 2.8
+  },
+  {
+   "name": "semi-sweet chocolate chips",
+   "grams": 9.4
+  }
+ ],
+ "layers": [
+  {
+   "name": "Crisp golden edge (first bite)",
+   "ingredients": [
+    {
+     "name": "flour",
+     "grams": 3.1
+    },
+    {
+     "name": "salt",
+     "grams": 0.1
+    },
+    {
+     "name": "butter",
+     "grams": 2.8
+    },
+    {
+     "name": "sugar",
+     "grams": 2.2
+    },
+    {
+     "name": "brown sugar",
+     "grams": 1.5
+    },
+    {
+     "name": "egg",
+     "grams": 0.8
+    }
+   ]
+  },
+  {
+   "name": "Chewy center",
+   "ingredients": [
+    {
+     "name": "flour",
+     "grams": 4.7
+    },
+    {
+     "name": "salt",
+     "grams": 0.1
+    },
+    {
+     "name": "butter",
+     "grams": 3.4
+    },
+    {
+     "name": "sugar",
+     "grams": 1.9
+    },
+    {
+     "name": "brown sugar",
+     "grams": 2.9
+    },
+    {
+     "name": "vanilla extract",
+     "grams": 0.1
+    },
+    {
+     "name": "egg",
+     "grams": 2.0
+    }
+   ]
+  },
+  {
+   "name": "Melty semi-sweet chocolate chips",
+   "ingredients": [
+    {
+     "name": "semi-sweet chocolate chips",
+     "grams": 9.4
+    }
+   ]
+  }
+ ]
+}
