@@ -1,0 +1,3 @@
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
